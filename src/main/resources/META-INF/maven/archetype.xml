@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><archetype>
+  <id>single-template</id>
+  <sources>
+    <source>src\main\java\com\edwardsbean\demo\Main.java</source>
+  </sources>
+  <resources>
+    <resource>src\main\resources\log4j.properties</resource>
+    <resource>src\main\resources\start.job</resource>
+    <resource>src\main\resources\start.sh</resource>
+  </resources>
+</archetype>
