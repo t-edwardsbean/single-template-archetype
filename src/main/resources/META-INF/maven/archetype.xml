@@ -7,5 +7,6 @@
     <resource>src\main\resources\log4j.properties</resource>
     <resource>src\main\resources\start.job</resource>
     <resource>src\main\resources\start.sh</resource>
+	<resource>package.xml</resource>
   </resources>
 </archetype>
